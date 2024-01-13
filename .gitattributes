@@ -1,0 +1,7 @@
+models/best/left_turn_model.ckpt filter=lfs diff=lfs merge=lfs -text
+models/best/no_turn_model.ckpt filter=lfs diff=lfs merge=lfs -text
+models/best/residual_good_driving_performance.ckpt filter=lfs diff=lfs merge=lfs -text
+models/best/resnet-model-epoch=07-val_loss=0.03389.ckpt filter=lfs diff=lfs merge=lfs -text
+models/best/right_turn_model.ckpt filter=lfs diff=lfs merge=lfs -text
+models/best/best_residual.ckpt filter=lfs diff=lfs merge=lfs -text
+models/best/cnn-lstm-model--no_images=3-epoch=10-val_loss=0.04032.ckpt filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,15 @@
+CROP_BOTTOM: 0
+CROP_TOP: 0
+DESIGN_MODE: false
+MAX_SPEED: 25
+MAX_STEERING_ANGLE: 1
+MIN_SPEED: 10
+MIN_STEERING_ANGLE: -1
+MODEL_OUTPUT_DIR: d:\task3_duetsch_sodamin\models
+MODEL_SELECTION: RESIDUAL_4CH_MODEL
+Notes: NA
+STEERING_BIAS: 0.07
+TEST_DATA_DIR: d:\task3_duetsch_sodamin\data\test_set_only
+TRAINING_DATA_DIR: d:\task3_duetsch_sodamin\data/training/automatic_driving_9000imgs
+batch_size: 64
+learning_rate: NA
